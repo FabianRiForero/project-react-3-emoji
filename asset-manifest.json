@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-react-3-emoji/static/css/main.c3e5d573.css",
+    "main.js": "/project-react-3-emoji/static/js/main.b873b404.js",
+    "index.html": "/project-react-3-emoji/index.html",
+    "main.c3e5d573.css.map": "/project-react-3-emoji/static/css/main.c3e5d573.css.map",
+    "main.b873b404.js.map": "/project-react-3-emoji/static/js/main.b873b404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e5d573.css",
+    "static/js/main.b873b404.js"
+  ]
+}
